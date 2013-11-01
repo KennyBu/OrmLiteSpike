@@ -1,0 +1,13 @@
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\OrmLiteLibrary.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\OrmLiteLibrary.pdb
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Common.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Text.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Common.xml
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\bin\Debug\ServiceStack.Text.xml
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\obj\Debug\OrmLiteLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\obj\Debug\OrmLiteLibrary.dll
+C:\Users\ken\Documents\GitHub\OrmLiteSpike\OrmLiteSpike\OrmLiteLibrary\obj\Debug\OrmLiteLibrary.pdb
